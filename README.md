@@ -1,6 +1,6 @@
 # TOEIC Vocab Sprint
 
-ADHD 友善的 TOEIC 單字練習 PWA — 5 分鐘衝刺、像素戰鬥、本地離線運作。
+TOEIC 單字練習 PWA — 5 分鐘衝刺、像素戰鬥、本地離線運作。
 
 把單字背成打怪，答對砍敵、答錯被砍。React 18 + TypeScript + Vite + Dexie (IndexedDB)，**完全離線、無後端、無 API key**。
 
