@@ -6,7 +6,7 @@ TOEIC 單字練習 PWA — 5 分鐘衝刺、像素戰鬥、本地離線運作。
 
 ## 特色
 
-- **5 分鐘 Sprint** — 一回合就走完，符合 ADHD 注意力節奏
+- **5 分鐘 Sprint** — 一回合就走完
 - **FSRS-6 間隔重複** — 答對的字延後復習，答錯的字馬上回鍋
 - **像素戰鬥系統** — 30 名手繪角色、Combo / Fever / Brutality 特效、Web Audio 合成 8-bit 音效
 - **本地離線** — 進度存在 IndexedDB，沒有雲端、沒有帳號、沒有追蹤
@@ -68,7 +68,7 @@ npm run preview  # 預覽 build
 2. 開 Claude Code，請它讀 PDF 並輸出符合上面 schema 的 JSON
 3. 把產出的 JSON 合併進 `data/vocabulary.json`
 
-這個 repo 不附我的 PDF（個人筆記），但 schema 是公開的，你可以複製這個流程。
+你可以複製這個流程。
 
 ## 角色圖鑑
 
@@ -110,7 +110,7 @@ data/
 
 ## License
 
-MIT — 拿去隨便用，但別拿去當作弊工具 😅
+MIT
 
 ## 為什麼做這個
 
