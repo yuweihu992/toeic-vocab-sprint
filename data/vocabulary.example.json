@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-25",
+  "topics": [
+    {
+      "id": "my-topic",
+      "name": "我的主題"
+    }
+  ],
+  "words": [
+    {
+      "id": "interview",
+      "word": "interview",
+      "pos": "n.",
+      "ipa": "/ˈɪn.tə.vjuː/",
+      "zh": "面試",
+      "topic": "my-topic",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "I have an ___ scheduled for next Monday.",
+          "answer": "interview",
+          "zh": "我下週一有一場面試。"
+        }
+      ],
+      "confusables": ["interval", "intervene"]
+    },
+    {
+      "id": "deadline",
+      "word": "deadline",
+      "pos": "n.",
+      "ipa": "/ˈded.laɪn/",
+      "zh": "截止日期",
+      "topic": "my-topic",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Please submit your report before the ___.",
+          "answer": "deadline",
+          "zh": "請在截止日期前繳交報告。"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "word": "policy",
+      "pos": "n.",
+      "ipa": "/ˈpɒl.ə.si/",
+      "zh": "政策",
+      "topic": "my-topic",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "The new ___ requires all employees to wear ID badges.",
+          "answer": "policy",
+          "zh": "新政策要求所有員工配戴識別證。"
+        }
+      ]
+    }
+  ]
+}

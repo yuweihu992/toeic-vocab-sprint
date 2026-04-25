@@ -1,0 +1,86 @@
+/* ============================================================
+   sprites.css - Pixel art sprite animations
+   ============================================================ */
+
+.sprite-root {
+  display: inline-block;
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+  -webkit-font-smoothing: none;
+  shape-rendering: crispEdges;
+  transform-origin: 50% 75%;
+  will-change: transform, opacity;
+  filter: drop-shadow(0 4px 0 rgba(0, 0, 0, 0.25));
+}
+
+/* ----- IDLE ----- */
+@keyframes sprite-idle-bob {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-2px); }
+}
+.sprite-state-idle {
+  animation: sprite-idle-bob 1.5s ease-in-out infinite;
+}
+
+/* boss idle: bob + slight scale pulse for menace */
+@keyframes sprite-idle-boss {
+  0%, 100% { transform: translateY(0)    scale(1.00); }
+  50%      { transform: translateY(-2px) scale(1.03); }
+}
+.sprite-state-idle.sprite-boss {
+  animation: sprite-idle-boss 1.8s ease-in-out infinite;
+}
+
+/* ----- ATTACK (warrior only) ----- */
+@keyframes sprite-attack-lunge {
+  0%   { transform: translateX(0)    rotate(0deg); }
+  25%  { transform: translateX(-3px) rotate(-6deg); }   /* wind-up */
+  55%  { transform: translateX(12px) rotate(8deg); }    /* lunge */
+  80%  { transform: translateX(8px)  rotate(4deg); }
+  100% { transform: translateX(0)    rotate(0deg); }
+}
+.sprite-state-attack {
+  animation: sprite-attack-lunge 0.4s ease-out 1;
+}
+
+/* ----- HIT ----- */
+@keyframes sprite-hit-shake {
+  0%   { transform: translateX(0); }
+  20%  { transform: translateX(-4px); }
+  40%  { transform: translateX(4px); }
+  60%  { transform: translateX(-3px); }
+  80%  { transform: translateX(2px); }
+  100% { transform: translateX(0); }
+}
+.sprite-state-hit {
+  animation: sprite-hit-shake 0.3s ease-out 1;
+  filter: drop-shadow(0 4px 0 rgba(0, 0, 0, 0.25))
+          drop-shadow(0 0 6px rgba(255, 80, 80, 0.9));
+}
+
+/* ----- DEFEAT ----- */
+@keyframes sprite-defeat-fall {
+  0%   { transform: rotate(0deg)  translateY(0)   scale(1);    opacity: 1; }
+  60%  { transform: rotate(70deg) translateY(6px) scale(0.98); opacity: 0.7; }
+  100% { transform: rotate(90deg) translateY(10px) scale(0.95); opacity: 0; }
+}
+.sprite-state-defeat {
+  animation: sprite-defeat-fall 0.8s cubic-bezier(0.5, 0, 0.75, 0) 1 forwards;
+  transform-origin: 50% 100%;
+}
+
+/* ----- Reduced motion ----- */
+@media (prefers-reduced-motion: reduce) {
+  .sprite-state-idle,
+  .sprite-state-idle.sprite-boss,
+  .sprite-state-attack,
+  .sprite-state-hit {
+    animation: none !important;
+  }
+  .sprite-state-defeat {
+    animation: none !important;
+    opacity: 0;
+    transform: rotate(90deg);
+  }
+}

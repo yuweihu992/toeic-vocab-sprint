@@ -1,0 +1,17 @@
+node_modules
+dist
+.DS_Store
+*.local
+.vscode/*
+!.vscode/extensions.json
+
+# Personal data — never commit
+*.pdf
+.env
+.env.*
+!.env.example
+
+# OS / editor
+Thumbs.db
+*.swp
+.idea/

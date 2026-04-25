@@ -1,0 +1,1728 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-25",
+  "topics": [
+    {
+      "id": "job-hunting",
+      "name": "求職與招募",
+      "source": "Notes_260425_172314.pdf"
+    },
+    {
+      "id": "regulations",
+      "name": "規範與服裝規定",
+      "source": "服裝規定_260425_173159.pdf"
+    }
+  ],
+  "words": [
+    {
+      "id": "resume",
+      "word": "resume",
+      "pos": "n.",
+      "ipa": "/ˈrez.juː.meɪ/",
+      "zh": "履歷表",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Please attach your updated ___ when applying for this position.",
+          "answer": "resume",
+          "zh": "申請此職位時，請附上您最新的履歷表。"
+        }
+      ],
+      "confusables": ["CV", "summary", "resign"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "文件圖示"
+    },
+    {
+      "id": "opening",
+      "word": "opening",
+      "pos": "n.",
+      "ipa": "/ˈoʊ.pən.ɪŋ/",
+      "zh": "職缺、空缺",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "We currently have several ___ in our marketing department.",
+          "answer": "openings",
+          "zh": "我們行銷部門目前有數個職缺。"
+        }
+      ],
+      "confusables": ["vacancy", "position", "opportunity"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "✓ 勾選"
+    },
+    {
+      "id": "applicant",
+      "word": "applicant",
+      "pos": "n.",
+      "ipa": "/ˈæp.lɪ.kənt/",
+      "zh": "申請人、應徵者",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "All ___ must submit their resumes before Friday.",
+          "answer": "applicants",
+          "zh": "所有應徵者須在週五前繳交履歷。"
+        }
+      ],
+      "confusables": ["application", "applicable", "applying"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1,
+        "userWroteAs": "applicane"
+      },
+      "doodle": "西裝人物"
+    },
+    {
+      "id": "meet",
+      "word": "meet",
+      "pos": "v.",
+      "ipa": "/miːt/",
+      "zh": "符合、達到、會見",
+      "topic": "job-hunting",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "The candidate did not ___ all the qualifications listed in the job description.",
+          "answer": "meet",
+          "zh": "該應徵者未能滿足職位說明中列出的所有資格。"
+        }
+      ],
+      "confusables": ["match", "fulfill", "satisfy"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "人物相遇"
+    },
+    {
+      "id": "qualified",
+      "word": "qualified",
+      "pos": "adj.",
+      "ipa": "/ˈkwɒl.ɪ.faɪd/",
+      "zh": "合格的、有資格的",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "She is highly ___ for the senior management role.",
+          "answer": "qualified",
+          "zh": "她非常有資格擔任高階管理職位。"
+        }
+      ],
+      "confusables": ["qualifying", "qualification", "quantified"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "勾選框"
+    },
+    {
+      "id": "candidate",
+      "word": "candidate",
+      "pos": "n.",
+      "ipa": "/ˈkæn.dɪ.deɪt/",
+      "zh": "候選人、應徵者",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "We will interview five ___ for the position next week.",
+          "answer": "candidates",
+          "zh": "下週我們將面試五位該職位的候選人。"
+        }
+      ],
+      "confusables": ["applicant", "nominee", "candid"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "三個小人物"
+    },
+    {
+      "id": "confidence",
+      "word": "confidence",
+      "pos": "n.",
+      "ipa": "/ˈkɒn.fɪ.dəns/",
+      "zh": "自信、信心",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "The interviewer was impressed by her ___ during the presentation.",
+          "answer": "confidence",
+          "zh": "面試官對她在簡報中展現的自信印象深刻。"
+        }
+      ],
+      "confusables": ["confident", "confidential", "competence"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "OK 手勢人物"
+    },
+    {
+      "id": "highly",
+      "word": "highly",
+      "pos": "adv.",
+      "ipa": "/ˈhaɪ.li/",
+      "zh": "高度地、非常",
+      "topic": "job-hunting",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "He is ___ recommended by his former supervisor.",
+          "answer": "highly",
+          "zh": "他獲得前主管的高度推薦。"
+        }
+      ],
+      "confusables": ["high", "highest", "highway"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "向上箭頭"
+    },
+    {
+      "id": "professional",
+      "word": "professional",
+      "pos": "adj.",
+      "ipa": "/prəˈfeʃ.ən.əl/",
+      "zh": "專業的；職業的",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Please dress in ___ attire for the interview.",
+          "answer": "professional",
+          "zh": "請穿著專業服裝參加面試。"
+        }
+      ],
+      "confusables": ["profession", "professor", "proficient"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "職業人物"
+    },
+    {
+      "id": "interview",
+      "word": "interview",
+      "pos": "n.",
+      "ipa": "/ˈɪn.tə.vjuː/",
+      "zh": "面試、訪談",
+      "topic": "job-hunting",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "The HR manager will ___ all shortlisted candidates next Monday.",
+          "answer": "interview",
+          "zh": "人資經理將於下週一面試所有入圍的候選人。"
+        }
+      ],
+      "confusables": ["interviewer", "interviewee", "intervene"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "面試桌"
+    },
+    {
+      "id": "hire",
+      "word": "hire",
+      "pos": "v.",
+      "ipa": "/haɪər/",
+      "zh": "雇用、聘請",
+      "topic": "job-hunting",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "The company plans to ___ 20 new engineers this quarter.",
+          "answer": "hire",
+          "zh": "公司計劃在本季雇用 20 名新工程師。"
+        }
+      ],
+      "confusables": ["fire", "employ", "higher"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1,
+        "userWroteAs": "hive"
+      },
+      "doodle": "握手"
+    },
+    {
+      "id": "training",
+      "word": "training",
+      "pos": "n.",
+      "ipa": "/ˈtreɪ.nɪŋ/",
+      "zh": "訓練、培訓",
+      "topic": "job-hunting",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "All new employees must complete a two-week ___ program.",
+          "answer": "training",
+          "zh": "所有新員工必須完成為期兩週的訓練課程。"
+        }
+      ],
+      "confusables": ["trainee", "trainer", "trail"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "人物提升"
+    },
+    {
+      "id": "reference",
+      "word": "reference",
+      "pos": "n.",
+      "ipa": "/ˈref.ər.əns/",
+      "zh": "推薦人、推薦信、參考",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Please provide three professional ___ on your application.",
+          "answer": "references",
+          "zh": "請於申請書上提供三位專業推薦人。"
+        }
+      ],
+      "confusables": ["referee", "referral", "preference"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "推薦信文件"
+    },
+    {
+      "id": "position",
+      "word": "position",
+      "pos": "n.",
+      "ipa": "/pəˈzɪʃ.ən/",
+      "zh": "職位、職務",
+      "topic": "job-hunting",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "I am writing to apply for the ___ of marketing manager.",
+          "answer": "position",
+          "zh": "本人謹此申請行銷經理一職。"
+        }
+      ],
+      "confusables": ["post", "role", "portion"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1,
+        "userWroteAs": "posietion"
+      },
+      "doodle": "瞄準目標"
+    },
+    {
+      "id": "achievement",
+      "word": "achievement",
+      "pos": "n.",
+      "ipa": "/əˈtʃiːv.mənt/",
+      "zh": "成就、成績",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Her biggest ___ was launching the product in three new markets.",
+          "answer": "achievement",
+          "zh": "她最大的成就是將產品打入三個新市場。"
+        }
+      ],
+      "confusables": ["accomplishment", "achieve", "agreement"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1,
+        "userWroteAs": "achievemane"
+      },
+      "doodle": "獎盃"
+    },
+    {
+      "id": "impressed",
+      "word": "impressed",
+      "pos": "adj.",
+      "ipa": "/ɪmˈprest/",
+      "zh": "印象深刻的",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "The hiring manager was ___ by the candidate's portfolio.",
+          "answer": "impressed",
+          "zh": "招聘經理對該應徵者的作品集印象深刻。"
+        }
+      ],
+      "confusables": ["impressive", "impression", "expressed"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "驚訝表情"
+    },
+    {
+      "id": "excellent",
+      "word": "excellent",
+      "pos": "adj.",
+      "ipa": "/ˈek.səl.ənt/",
+      "zh": "極好的、優秀的",
+      "topic": "job-hunting",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "She has ___ communication skills in both English and Chinese.",
+          "answer": "excellent",
+          "zh": "她具備優秀的中英文溝通能力。"
+        }
+      ],
+      "confusables": ["excel", "excellence", "excerpt"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "讚"
+    },
+    {
+      "id": "eligible",
+      "word": "eligible",
+      "pos": "adj.",
+      "ipa": "/ˈel.ɪ.dʒə.bəl/",
+      "zh": "有資格的、合格的",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Only employees with five years of service are ___ for the bonus.",
+          "answer": "eligible",
+          "zh": "只有服務滿五年的員工才有資格獲得獎金。"
+        }
+      ],
+      "confusables": ["legible", "illegible", "negligible"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "勾選人物"
+    },
+    {
+      "id": "identify",
+      "word": "identify",
+      "pos": "v.",
+      "ipa": "/aɪˈden.tɪ.faɪ/",
+      "zh": "識別、辨認",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Please ___ yourself at the reception desk before the interview.",
+          "answer": "identify",
+          "zh": "面試前請於接待櫃檯出示身分。"
+        }
+      ],
+      "confusables": ["identification", "identity", "indemnify"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "識別人物"
+    },
+    {
+      "id": "identification",
+      "word": "identification",
+      "pos": "n.",
+      "ipa": "/aɪˌden.tɪ.fɪˈkeɪ.ʃən/",
+      "zh": "身份證明、識別",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Please bring a valid form of ___ on your first day.",
+          "answer": "identification",
+          "zh": "請於上班第一天攜帶有效身分證明。"
+        }
+      ],
+      "confusables": ["identify", "identity", "notification"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "識別證"
+    },
+    {
+      "id": "associate",
+      "word": "associate",
+      "pos": "n.",
+      "ipa": "/əˈsoʊ.si.ət/",
+      "zh": "同事、夥伴",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "He has worked closely with his ___ for over a decade.",
+          "answer": "associates",
+          "zh": "他與同事密切共事已超過十年。"
+        }
+      ],
+      "confusables": ["assistant", "association", "appropriate"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 1
+      },
+      "doodle": "三位同事"
+    },
+    {
+      "id": "employment",
+      "word": "employment",
+      "pos": "n.",
+      "ipa": "/ɪmˈplɔɪ.mənt/",
+      "zh": "雇用、就業",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "She has been seeking ___ in the finance industry.",
+          "answer": "employment",
+          "zh": "她一直在金融業尋求就業機會。"
+        }
+      ],
+      "confusables": ["employee", "employer", "enjoyment"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "雇用情境"
+    },
+    {
+      "id": "lack",
+      "word": "lack",
+      "pos": "n.",
+      "ipa": "/læk/",
+      "zh": "缺乏、不足",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "The candidate was rejected due to a ___ of relevant experience.",
+          "answer": "lack",
+          "zh": "該應徵者因缺乏相關經驗而未被錄取。"
+        }
+      ],
+      "confusables": ["lake", "luck", "lock"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "缺失手勢"
+    },
+    {
+      "id": "managerial",
+      "word": "managerial",
+      "pos": "adj.",
+      "ipa": "/ˌmæn.əˈdʒɪə.ri.əl/",
+      "zh": "管理的、經理的",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "The role requires at least five years of ___ experience.",
+          "answer": "managerial",
+          "zh": "該職位需要至少五年的管理經驗。"
+        }
+      ],
+      "confusables": ["manager", "management", "material"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "經理人物"
+    },
+    {
+      "id": "diligent",
+      "word": "diligent",
+      "pos": "adj.",
+      "ipa": "/ˈdɪl.ɪ.dʒənt/",
+      "zh": "勤勉的、勤奮的",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "The supervisor praised her for being ___ and detail-oriented.",
+          "answer": "diligent",
+          "zh": "主管讚揚她勤奮又注重細節。"
+        }
+      ],
+      "confusables": ["intelligent", "delicate", "indigent"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "認真工作人物"
+    },
+    {
+      "id": "familiar",
+      "word": "familiar",
+      "pos": "adj.",
+      "ipa": "/fəˈmɪl.i.ər/",
+      "zh": "熟悉的",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Are you ___ with the latest accounting software?",
+          "answer": "familiar",
+          "zh": "你熟悉最新的會計軟體嗎？"
+        }
+      ],
+      "confusables": ["family", "familiarity", "similar"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "proficiency",
+      "word": "proficiency",
+      "pos": "n.",
+      "ipa": "/prəˈfɪʃ.ən.si/",
+      "zh": "熟練、精通",
+      "topic": "job-hunting",
+      "difficulty": 4,
+      "examples": [
+        {
+          "en": "The position requires ___ in Excel and PowerPoint.",
+          "answer": "proficiency",
+          "zh": "該職位要求精通 Excel 與 PowerPoint。"
+        }
+      ],
+      "confusables": ["proficient", "efficiency", "deficiency"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "輕鬆操作人物"
+    },
+    {
+      "id": "prospective",
+      "word": "prospective",
+      "pos": "adj.",
+      "ipa": "/prəˈspek.tɪv/",
+      "zh": "未來的、潛在的",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "We are excited to meet our ___ employees at the orientation.",
+          "answer": "prospective",
+          "zh": "我們很期待在職前說明會中見到未來的員工。"
+        }
+      ],
+      "confusables": ["perspective", "prospect", "respective"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "時鐘符號"
+    },
+    {
+      "id": "appeal",
+      "word": "appeal",
+      "pos": "n.",
+      "ipa": "/əˈpiːl/",
+      "zh": "吸引力；訴求",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "This position has great ___ for recent graduates.",
+          "answer": "appeal",
+          "zh": "這個職位對社會新鮮人非常有吸引力。"
+        }
+      ],
+      "confusables": ["appear", "apply", "appall"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "愛心人物"
+    },
+    {
+      "id": "specialize",
+      "word": "specialize",
+      "pos": "v.",
+      "ipa": "/ˈspeʃ.əl.aɪz/",
+      "zh": "專精、專門研究",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Our team ___ in cloud computing solutions for enterprises.",
+          "answer": "specializes",
+          "zh": "我們團隊專精於企業雲端運算解決方案。"
+        }
+      ],
+      "confusables": ["special", "specialist", "socialize"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "專業人物群組"
+    },
+    {
+      "id": "apprehensive",
+      "word": "apprehensive",
+      "pos": "adj.",
+      "ipa": "/ˌæp.rɪˈhen.sɪv/",
+      "zh": "擔心的、憂慮的",
+      "topic": "job-hunting",
+      "difficulty": 4,
+      "examples": [
+        {
+          "en": "She felt ___ about the upcoming performance review.",
+          "answer": "apprehensive",
+          "zh": "她對即將到來的績效評估感到擔憂。"
+        }
+      ],
+      "confusables": ["comprehensive", "approve", "apprehend"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "擔憂人物"
+    },
+    {
+      "id": "consultant",
+      "word": "consultant",
+      "pos": "n.",
+      "ipa": "/kənˈsʌl.tənt/",
+      "zh": "顧問",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "We hired an external ___ to advise on our restructuring plan.",
+          "answer": "consultant",
+          "zh": "我們聘請了外部顧問為公司重組計畫提供建議。"
+        }
+      ],
+      "confusables": ["consultation", "consult", "constant"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "顧問人物"
+    },
+    {
+      "id": "entitle",
+      "word": "entitle",
+      "pos": "v.",
+      "ipa": "/ɪnˈtaɪ.təl/",
+      "zh": "給予權利、使有資格",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Full-time employees are ___ to 15 days of paid leave annually.",
+          "answer": "entitled",
+          "zh": "全職員工每年有權享有 15 天的有薪假。"
+        }
+      ],
+      "confusables": ["title", "entitlement", "entirely"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "degree",
+      "word": "degree",
+      "pos": "n.",
+      "ipa": "/dɪˈɡriː/",
+      "zh": "學位；程度",
+      "topic": "job-hunting",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "The position requires a master's ___ in computer science.",
+          "answer": "degree",
+          "zh": "該職位要求資訊科學碩士學位。"
+        }
+      ],
+      "confusables": ["decree", "diploma", "agree"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "payroll",
+      "word": "payroll",
+      "pos": "n.",
+      "ipa": "/ˈpeɪ.roʊl/",
+      "zh": "薪資名單、薪資",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Please contact the ___ department about your salary slip.",
+          "answer": "payroll",
+          "zh": "薪資單相關問題請聯絡薪資部門。"
+        }
+      ],
+      "confusables": ["payment", "payday", "patrol"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2,
+        "userWroteAs": "payrall"
+      },
+      "doodle": "美元符號"
+    },
+    {
+      "id": "recruit",
+      "word": "recruit",
+      "pos": "v.",
+      "ipa": "/rɪˈkruːt/",
+      "zh": "招募、招聘",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "The company plans to ___ 50 new graduates this year.",
+          "answer": "recruit",
+          "zh": "公司計劃今年招募 50 位社會新鮮人。"
+        }
+      ],
+      "confusables": ["recruitment", "require", "reduce"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "certification",
+      "word": "certification",
+      "pos": "n.",
+      "ipa": "/ˌsɜːr.tɪ.fɪˈkeɪ.ʃən/",
+      "zh": "認證、證書",
+      "topic": "job-hunting",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "PMP ___ is preferred for this project management role.",
+          "answer": "certification",
+          "zh": "本專案管理職位以具備 PMP 認證者為佳。"
+        }
+      ],
+      "confusables": ["certificate", "certify", "notification"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      },
+      "doodle": "認證文件"
+    },
+    {
+      "id": "occupation",
+      "word": "occupation",
+      "pos": "n.",
+      "ipa": "/ˌɒk.jəˈpeɪ.ʃən/",
+      "zh": "職業、工作",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Please state your current ___ on the application form.",
+          "answer": "occupation",
+          "zh": "請於申請書上填寫目前的職業。"
+        }
+      ],
+      "confusables": ["occupy", "occupant", "obligation"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "wage",
+      "word": "wage",
+      "pos": "n.",
+      "ipa": "/weɪdʒ/",
+      "zh": "工資、薪水",
+      "topic": "job-hunting",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "The minimum ___ in this country is set by the government.",
+          "answer": "wage",
+          "zh": "本國的最低工資由政府制定。"
+        }
+      ],
+      "confusables": ["wedge", "weigh", "wager"],
+      "source": {
+        "pdf": "Notes_260425_172314.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "attire",
+      "word": "attire",
+      "pos": "n.",
+      "ipa": "/əˈtaɪər/",
+      "zh": "服裝、衣著",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Business ___ is required for all client meetings.",
+          "answer": "attire",
+          "zh": "所有客戶會議皆須穿著商務服裝。"
+        }
+      ],
+      "confusables": ["attain", "retire", "entire"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "code",
+      "word": "code",
+      "pos": "n.",
+      "ipa": "/koʊd/",
+      "zh": "規範、準則；代碼",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "Employees must follow the company dress ___.",
+          "answer": "code",
+          "zh": "員工必須遵守公司的服裝規範。"
+        }
+      ],
+      "confusables": ["mode", "node", "coke"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "concern",
+      "word": "concern",
+      "pos": "n.",
+      "ipa": "/kənˈsɜːrn/",
+      "zh": "關心、擔憂",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "The new policy raised some ___ among the staff.",
+          "answer": "concerns",
+          "zh": "新政策在員工間引起了一些疑慮。"
+        }
+      ],
+      "confusables": ["concert", "consume", "confer"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "policy",
+      "word": "policy",
+      "pos": "n.",
+      "ipa": "/ˈpɒl.ə.si/",
+      "zh": "政策、規定",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "Please review the company's privacy ___ before signing.",
+          "answer": "policy",
+          "zh": "簽署前請詳閱公司的隱私權政策。"
+        }
+      ],
+      "confusables": ["police", "politics", "policies"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "comply",
+      "word": "comply",
+      "pos": "v.",
+      "ipa": "/kəmˈplaɪ/",
+      "zh": "遵守、服從",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "All employees must ___ with safety regulations at all times.",
+          "answer": "comply",
+          "zh": "所有員工必須隨時遵守安全規定。"
+        }
+      ],
+      "confusables": ["complete", "compile", "comprise"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "regulation",
+      "word": "regulation",
+      "pos": "n.",
+      "ipa": "/ˌreɡ.jəˈleɪ.ʃən/",
+      "zh": "規定、法規",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "New environmental ___ will take effect next month.",
+          "answer": "regulations",
+          "zh": "新的環保法規將於下個月生效。"
+        }
+      ],
+      "confusables": ["regular", "regulate", "regulator"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "exception",
+      "word": "exception",
+      "pos": "n.",
+      "ipa": "/ɪkˈsep.ʃən/",
+      "zh": "例外",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "No ___ will be made to the attendance policy.",
+          "answer": "exceptions",
+          "zh": "出勤政策不容許任何例外。"
+        }
+      ],
+      "confusables": ["expectation", "execution", "exemption"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "adhere",
+      "word": "adhere",
+      "pos": "v.",
+      "ipa": "/ədˈhɪər/",
+      "zh": "遵守、堅持",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "All staff must ___ to the company's code of conduct.",
+          "answer": "adhere",
+          "zh": "所有員工必須遵守公司的行為準則。"
+        }
+      ],
+      "confusables": ["adherent", "inhere", "adheres"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "severely",
+      "word": "severely",
+      "pos": "adv.",
+      "ipa": "/sɪˈvɪər.li/",
+      "zh": "嚴重地、嚴厲地",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Anyone violating this rule will be ___ punished.",
+          "answer": "severely",
+          "zh": "任何違反此規定者將受到嚴厲處分。"
+        }
+      ],
+      "confusables": ["several", "severe", "sincerely"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "refrain",
+      "word": "refrain",
+      "pos": "v.",
+      "ipa": "/rɪˈfreɪn/",
+      "zh": "克制、避免",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Employees should ___ from using personal devices during meetings.",
+          "answer": "refrain",
+          "zh": "員工應避免在會議中使用個人裝置。"
+        }
+      ],
+      "confusables": ["restrain", "refresh", "refrigerate"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "permission",
+      "word": "permission",
+      "pos": "n.",
+      "ipa": "/pərˈmɪʃ.ən/",
+      "zh": "許可、允許",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "You must obtain ___ from your manager before leaving early.",
+          "answer": "permission",
+          "zh": "提早離開前須取得主管的許可。"
+        }
+      ],
+      "confusables": ["permit", "promotion", "submission"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "access",
+      "word": "access",
+      "pos": "n.",
+      "ipa": "/ˈæk.ses/",
+      "zh": "進入、存取、取用",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Only authorized personnel have ___ to this area.",
+          "answer": "access",
+          "zh": "只有獲授權的人員才能進入此區域。"
+        }
+      ],
+      "confusables": ["assess", "excess", "accent"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "thoroughly",
+      "word": "thoroughly",
+      "pos": "adv.",
+      "ipa": "/ˈθʌr.oʊ.li/",
+      "zh": "徹底地、完全地",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Please review the contract ___ before signing.",
+          "answer": "thoroughly",
+          "zh": "簽署合約前請仔細審閱。"
+        }
+      ],
+      "confusables": ["through", "though", "thorough"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "revise",
+      "word": "revise",
+      "pos": "v.",
+      "ipa": "/rɪˈvaɪz/",
+      "zh": "修改、修訂",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "We need to ___ the safety guidelines based on recent incidents.",
+          "answer": "revise",
+          "zh": "我們需根據近期事件修訂安全準則。"
+        }
+      ],
+      "confusables": ["review", "advise", "revival"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "approach",
+      "word": "approach",
+      "pos": "n.",
+      "ipa": "/əˈproʊtʃ/",
+      "zh": "方法、做法",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Management is taking a new ___ to employee training.",
+          "answer": "approach",
+          "zh": "管理階層對員工訓練採取了新做法。"
+        }
+      ],
+      "confusables": ["approve", "approval", "appropriate"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "approval",
+      "word": "approval",
+      "pos": "n.",
+      "ipa": "/əˈpruː.vəl/",
+      "zh": "批准、同意",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Budget changes require the director's ___.",
+          "answer": "approval",
+          "zh": "預算變更需經總監批准。"
+        }
+      ],
+      "confusables": ["approach", "approve", "improvement"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "form",
+      "word": "form",
+      "pos": "n.",
+      "ipa": "/fɔːrm/",
+      "zh": "表格；形式",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "Please complete this ___ before entering the facility.",
+          "answer": "form",
+          "zh": "進入本場所前請填寫此表格。"
+        }
+      ],
+      "confusables": ["from", "formal", "forum"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "immediately",
+      "word": "immediately",
+      "pos": "adv.",
+      "ipa": "/ɪˈmiː.di.ət.li/",
+      "zh": "立即、馬上",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Report any safety hazard to your supervisor ___.",
+          "answer": "immediately",
+          "zh": "請立即向主管通報任何安全危害。"
+        }
+      ],
+      "confusables": ["immediate", "imminent", "intermediate"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "inspection",
+      "word": "inspection",
+      "pos": "n.",
+      "ipa": "/ɪnˈspek.ʃən/",
+      "zh": "檢查、視察",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "The factory passed its annual safety ___.",
+          "answer": "inspection",
+          "zh": "該工廠通過了年度安全檢查。"
+        }
+      ],
+      "confusables": ["inspect", "introspection", "infection"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "arrangement",
+      "word": "arrangement",
+      "pos": "n.",
+      "ipa": "/əˈreɪndʒ.mənt/",
+      "zh": "安排、布置",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Special ___ can be made for employees with disabilities.",
+          "answer": "arrangements",
+          "zh": "公司可為身心障礙員工做特別安排。"
+        }
+      ],
+      "confusables": ["arrange", "argument", "agreement"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "procedure",
+      "word": "procedure",
+      "pos": "n.",
+      "ipa": "/prəˈsiː.dʒər/",
+      "zh": "程序、步驟",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "Follow the standard operating ___ at all times.",
+          "answer": "procedure",
+          "zh": "請隨時遵循標準作業程序。"
+        }
+      ],
+      "confusables": ["proceed", "process", "produce"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "negative",
+      "word": "negative",
+      "pos": "adj.",
+      "ipa": "/ˈneɡ.ə.tɪv/",
+      "zh": "負面的、否定的",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "The new policy had a ___ impact on employee morale.",
+          "answer": "negative",
+          "zh": "新政策對員工士氣造成了負面影響。"
+        }
+      ],
+      "confusables": ["negate", "negotiate", "narrative"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "mandate",
+      "word": "mandate",
+      "pos": "v.",
+      "ipa": "/ˈmæn.deɪt/",
+      "zh": "強制要求、授權",
+      "topic": "regulations",
+      "difficulty": 4,
+      "examples": [
+        {
+          "en": "The government ___ that all workplaces install fire alarms.",
+          "answer": "mandates",
+          "zh": "政府強制規定所有職場必須安裝火警警報器。"
+        }
+      ],
+      "confusables": ["mandatory", "demand", "candidate"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "effect",
+      "word": "effect",
+      "pos": "n.",
+      "ipa": "/ɪˈfekt/",
+      "zh": "效果、影響",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "The new dress code will take ___ on May 1st.",
+          "answer": "effect",
+          "zh": "新的服裝規定將於五月一日生效。"
+        }
+      ],
+      "confusables": ["affect", "effective", "infect"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "drastically",
+      "word": "drastically",
+      "pos": "adv.",
+      "ipa": "/ˈdræs.tɪ.kəl.i/",
+      "zh": "大幅地、劇烈地",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Sales dropped ___ after the policy change.",
+          "answer": "drastically",
+          "zh": "政策變更後銷售大幅下滑。"
+        }
+      ],
+      "confusables": ["drastic", "domestically", "dramatically"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "according-to",
+      "word": "according to",
+      "pos": "prep.",
+      "ipa": "/əˈkɔːr.dɪŋ tuː/",
+      "zh": "根據、按照",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "___ company policy, all visitors must register at the front desk.",
+          "answer": "According to",
+          "zh": "依公司規定，所有訪客必須於前台登記。"
+        }
+      ],
+      "confusables": ["accordingly", "according", "accord"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "enable",
+      "word": "enable",
+      "pos": "v.",
+      "ipa": "/ɪˈneɪ.bəl/",
+      "zh": "使能夠、啟用",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "The new system will ___ employees to work remotely.",
+          "answer": "enable",
+          "zh": "新系統將使員工能夠遠端工作。"
+        }
+      ],
+      "confusables": ["unable", "enabled", "ensure"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "standard",
+      "word": "standard",
+      "pos": "n.",
+      "ipa": "/ˈstæn.dərd/",
+      "zh": "標準",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "The company maintains high ___ of customer service.",
+          "answer": "standards",
+          "zh": "本公司維持高水準的客戶服務標準。"
+        }
+      ],
+      "confusables": ["standing", "stand", "stark"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "constant",
+      "word": "constant",
+      "pos": "adj.",
+      "ipa": "/ˈkɒn.stənt/",
+      "zh": "不斷的、持續的",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "We require ___ vigilance to maintain workplace safety.",
+          "answer": "constant",
+          "zh": "我們需要持續警覺以維護職場安全。"
+        }
+      ],
+      "confusables": ["consist", "content", "consultant"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "act",
+      "word": "act",
+      "pos": "n.",
+      "ipa": "/ækt/",
+      "zh": "法案；行為",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "The Labor Standards ___ protects workers' rights in Taiwan.",
+          "answer": "Act",
+          "zh": "勞動基準法保障台灣勞工的權益。"
+        }
+      ],
+      "confusables": ["fact", "actor", "acute"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 1
+      }
+    },
+    {
+      "id": "compensation",
+      "word": "compensation",
+      "pos": "n.",
+      "ipa": "/ˌkɒm.penˈseɪ.ʃən/",
+      "zh": "補償、賠償、薪酬",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Injured employees may receive ___ from the company.",
+          "answer": "compensation",
+          "zh": "受傷員工可向公司申請補償。"
+        }
+      ],
+      "confusables": ["competition", "complementary", "comprehensive"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "ban",
+      "word": "ban",
+      "pos": "n.",
+      "ipa": "/bæn/",
+      "zh": "禁止、禁令",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "The company has imposed a ___ on smoking in all areas.",
+          "answer": "ban",
+          "zh": "公司已在所有區域實施吸菸禁令。"
+        }
+      ],
+      "confusables": ["band", "bun", "bend"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "obligation",
+      "word": "obligation",
+      "pos": "n.",
+      "ipa": "/ˌɒb.lɪˈɡeɪ.ʃən/",
+      "zh": "義務、責任",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Employees have an ___ to report unsafe conditions immediately.",
+          "answer": "obligation",
+          "zh": "員工有義務立即通報不安全的狀況。"
+        }
+      ],
+      "confusables": ["obligated", "occupation", "operation"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "authorize",
+      "word": "authorize",
+      "pos": "v.",
+      "ipa": "/ˈɔː.θər.aɪz/",
+      "zh": "授權、批准",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Only the manager is ___ to approve overtime requests.",
+          "answer": "authorized",
+          "zh": "只有經理有權批准加班申請。"
+        }
+      ],
+      "confusables": ["authority", "author", "automate"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "prohibit",
+      "word": "prohibit",
+      "pos": "v.",
+      "ipa": "/prəˈhɪb.ɪt/",
+      "zh": "禁止",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Smoking is strictly ___ inside the building.",
+          "answer": "prohibited",
+          "zh": "建築物內嚴禁吸菸。"
+        }
+      ],
+      "confusables": ["prohibition", "promote", "inhibit"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2,
+        "userWroteAs": "prohibie"
+      }
+    },
+    {
+      "id": "abolish",
+      "word": "abolish",
+      "pos": "v.",
+      "ipa": "/əˈbɒl.ɪʃ/",
+      "zh": "廢除、廢止",
+      "topic": "regulations",
+      "difficulty": 4,
+      "examples": [
+        {
+          "en": "The new CEO plans to ___ outdated workplace policies.",
+          "answer": "abolish",
+          "zh": "新任執行長計劃廢除過時的職場政策。"
+        }
+      ],
+      "confusables": ["polish", "publish", "demolish"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "enforce",
+      "word": "enforce",
+      "pos": "v.",
+      "ipa": "/ɪnˈfɔːrs/",
+      "zh": "執行、強制執行",
+      "topic": "regulations",
+      "difficulty": 3,
+      "examples": [
+        {
+          "en": "Security guards will ___ the new visitor policy starting Monday.",
+          "answer": "enforce",
+          "zh": "保全人員將自週一起執行新的訪客規定。"
+        }
+      ],
+      "confusables": ["force", "reinforce", "endorse"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "habit",
+      "word": "habit",
+      "pos": "n.",
+      "ipa": "/ˈhæb.ɪt/",
+      "zh": "習慣",
+      "topic": "regulations",
+      "difficulty": 1,
+      "examples": [
+        {
+          "en": "Developing good work ___ is essential for productivity.",
+          "answer": "habits",
+          "zh": "養成良好的工作習慣對提升生產力至關重要。"
+        }
+      ],
+      "confusables": ["habitat", "inhabit", "rabbit"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "legislation",
+      "word": "legislation",
+      "pos": "n.",
+      "ipa": "/ˌledʒ.ɪˈsleɪ.ʃən/",
+      "zh": "立法、法律",
+      "topic": "regulations",
+      "difficulty": 4,
+      "examples": [
+        {
+          "en": "New labor ___ takes effect at the start of next year.",
+          "answer": "legislation",
+          "zh": "新的勞動立法將於明年初生效。"
+        }
+      ],
+      "confusables": ["legislator", "legitimate", "registration"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2
+      }
+    },
+    {
+      "id": "restrict",
+      "word": "restrict",
+      "pos": "v.",
+      "ipa": "/rɪˈstrɪkt/",
+      "zh": "限制",
+      "topic": "regulations",
+      "difficulty": 2,
+      "examples": [
+        {
+          "en": "The new rules ___ access to confidential files.",
+          "answer": "restrict",
+          "zh": "新規定限制存取機密檔案。"
+        }
+      ],
+      "confusables": ["restrain", "district", "restrict"],
+      "source": {
+        "pdf": "服裝規定_260425_173159.pdf",
+        "page": 2
+      }
+    }
+  ],
+  "needsReview": [
+    {
+      "context": "Notes_260425_172314.pdf 第 1 頁，位於 'opening' 與 'meet' 之間",
+      "userWroteAs": "veginnimore (或類似)",
+      "note": "手寫無法辨認。下次更新時請告訴我這個字。"
+    },
+    {
+      "context": "Notes_260425_172314.pdf 第 1 頁最後一行，位於 'associate' 之後",
+      "userWroteAs": "condidan (或類似)",
+      "note": "可能是 candidate 重複寫，或另一個字（considerate?）。下次請確認。"
+    }
+  ]
+}
